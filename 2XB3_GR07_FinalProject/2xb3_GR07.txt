@@ -1,0 +1,24 @@
+COMPSCI 2XB3
+Team Members:
+
+Andrew Zhu
+    Coordinator/Coder/UI Design
+Jin Sunwoo
+    Coder/UI Design
+Paul Lee
+    Coder/UI Design
+
+By virtue of submitting this document, I electronically sign and date that the work being submitted is my own individual work.
+Andrew Zhu
+400169901
+2020-02-07
+
+By virtue of submitting this document, I electronically sign and date that the work being submitted is my own individual work.
+Paul Lee
+400189886
+2020-02-07
+
+By virtue of submitting this document, I electronically sign and date that the work being submitted is my own individual work.
+Jin Sunwoo
+400181945
+2020-02-07
